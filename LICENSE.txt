@@ -1,0 +1,72 @@
+RBH · Reserve Bank of Horology
+Copyright (c) 2026 SS. All rights reserved.
+
+Made by SS, with love. Jai Hind. © 2026 SS
+
+
+PLEASE READ THIS NOTICE. IT IS THE LICENCE FOR THIS PROJECT.
+
+RBH is a personal project. I (SS) made it and I am sharing it with care. It is
+free to use, but it is not open source. I reserve all rights.
+
+
+1. USE OF THE APP
+   You are welcome to use the hosted RBH app for your own personal watch collection,
+   free of charge, on any device you own or control. No account is needed.
+
+2. RIGHTS RESERVED
+   Except for the personal use described in section 1, I grant you no licence or
+   right. The source code, design, layout, text, icons, logo and the names "RBH"
+   and "Reserve Bank of Horology" remain my exclusive property.
+
+3. WHAT YOU MAY NOT DO WITHOUT MY WRITTEN PERMISSION
+   Please do not copy-paste this project. Without my prior written permission you
+   may not:
+     a) copy, clone, reproduce or republish the source code, design or assets;
+     b) host, mirror or deploy your own copy of the app, free or paid;
+     c) redistribute, resell, sublicense, rent or lend the app or any part of it;
+     d) modify it, create derivative works, or build another product on top of it;
+     e) rebrand it, or remove or alter my credit and copyright notices;
+     f) use the RBH name or logo in a way that suggests your work is the original
+        or is endorsed by me.
+
+4. UPGRADES AND NEW IDEAS
+   If you like RBH and would like to build on it, translate it, extend it, or
+   discuss an upgraded version, please ask me first. I am often happy to say yes,
+   and a short message is all it takes. Contact me on Reddit: u/ssind
+   (https://www.reddit.com/user/ssind).
+
+5. VISIBLE SOURCE IS NOT A LICENCE
+   If the source code is visible on a public site (for example GitHub), that is for
+   transparency only. Being able to see the code does not give you any right to use
+   it beyond section 1. Any rights you have under the terms of the hosting site
+   itself (such as viewing or forking a public repository on that site) apply only
+   as those terms provide, and do not extend to anything in section 3.
+
+6. YOUR DATA
+   RBH keeps everything you enter on your own device. I do not receive, see, store
+   or have access to your watches, photos, documents, PIN or backups. You are
+   responsible for keeping your own backups safe.
+
+7. NO WARRANTY
+   RBH is provided "as is", without warranty of any kind, express or implied,
+   including fitness for a particular purpose and uninterrupted or error-free
+   operation. Amounts and figures in RBH are exactly as you entered them. They are
+   not a valuation, appraisal or financial advice.
+
+8. LIMITATION OF LIABILITY
+   To the fullest extent permitted by law, I am not liable for any loss or damage
+   arising from the use of, or inability to use, RBH, including loss of data (for
+   example if browser storage is cleared or a backup is lost).
+
+9. INDEPENDENT PROJECT
+   RBH is an independent project. It is not affiliated with, or endorsed by, any
+   bank, regulatory authority, watch brand or manufacturer. Brand and product names
+   shown in the app are entered by the user and belong to their respective owners.
+
+10. ENDING THIS LICENCE
+   The permission in section 1 ends automatically if you break these terms.
+
+By using RBH you agree to these terms.
+
+Made by SS, with love. Jai Hind. © 2026 SS
