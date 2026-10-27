@@ -12,7 +12,11 @@ Photos, specs, invoices, straps, service history and a wishlist, all kept on you
 ![RBH on phone, in detail view, and in dark mode with a pastel colour](screenshot-00-overview.png)
 
 
-https://github.com/user-attachments/assets/34247770-0c00-45da-8f62-1d5d1c35f490
+
+
+https://github.com/user-attachments/assets/038b86ef-2a9a-44a5-9a05-597b2488f62f
+
+
 
 </div>
 
