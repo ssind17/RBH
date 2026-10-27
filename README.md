@@ -11,10 +11,8 @@ Photos, specs, invoices, straps, service history and a wishlist, all kept on you
 
 ![RBH on phone, in detail view, and in dark mode with a pastel colour](screenshot-00-overview.png)
 
-### 📺 [Click Here to Watch the Demo Video](https://www.youtube.com/watch?v=zvkfVs_ZqO0&list=PLdnpIgSQI_as&index=1)
 
-[![Watch the video](https://youtube.com)](https://www.youtube.com/watch?v=zvkfVs_ZqO0&list=PLdnpIgSQI_as&index=1)
-
+https://github.com/user-attachments/assets/34247770-0c00-45da-8f62-1d5d1c35f490
 
 </div>
 
