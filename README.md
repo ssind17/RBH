@@ -2,7 +2,7 @@
 
 <img src="icon-192.png" alt="RBH logo" width="120" height="120">
 
-# RBH - Reserve Bank of Horology
+# Reserve Bank of Horology
 
 **A private vault for your watch collection.**
 Photos, specs, invoices, straps, service history and a wishlist, all kept on your own device.
